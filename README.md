@@ -1,3 +1,4 @@
-# A simple search bar implemention on Flutter
+# Search bar cities from API 
 
-[Link to article](https://dev.to/luizeduardotj/search-bar-in-flutter-33e1)
+77 จังหวัด ของประเทศไทย
+
